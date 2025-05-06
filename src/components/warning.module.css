@@ -1,0 +1,22 @@
+.alerta {
+    background-color: #ff0000dd;
+    color: #000000;
+    border: 1px solid #d33212;
+    padding: 15px;  
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+    z-index: 1000;
+
+  }
+  
+  .alerta button {
+    background: transparent;
+    border: none;
+    font-size: 18px;
+    cursor: pointer;
+  }
+  
